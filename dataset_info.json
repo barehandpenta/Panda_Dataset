@@ -1,0 +1,17 @@
+{
+    "info":
+    {
+        "description": "Test dataset",
+        "version": "1.0.1",
+        "url":null,
+        "year": 2019,
+        "contributor": "Khoa Phan",
+        "date_created": "09/23/2019"
+    },
+    "license":
+    {
+        "url": null,
+        "id": 0,
+        "name": "Test license"
+    }
+}

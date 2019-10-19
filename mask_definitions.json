@@ -1,0 +1,2125 @@
+{
+  "masks": {
+    "image/001.png": {
+      "mask": "mask/001.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/002.png": {
+      "mask": "mask/002.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/003.png": {
+      "mask": "mask/003.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/004.png": {
+      "mask": "mask/004.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/005.png": {
+      "mask": "mask/005.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/006.png": {
+      "mask": "mask/006.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/007.png": {
+      "mask": "mask/007.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/008.png": {
+      "mask": "mask/008.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/009.png": {
+      "mask": "mask/009.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/010.png": {
+      "mask": "mask/010.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/011.png": {
+      "mask": "mask/011.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/012.png": {
+      "mask": "mask/012.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/013.png": {
+      "mask": "mask/013.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/014.png": {
+      "mask": "mask/014.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/015.png": {
+      "mask": "mask/015.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/018.png": {
+      "mask": "mask/018.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/016.png": {
+      "mask": "mask/016.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/017.png": {
+      "mask": "mask/017.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/019.png": {
+      "mask": "mask/019.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/020.png": {
+      "mask": "mask/020.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/021.png": {
+      "mask": "mask/021.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/022.png": {
+      "mask": "mask/022.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/023.png": {
+      "mask": "mask/023.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/024.png": {
+      "mask": "mask/024.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/025.png": {
+      "mask": "mask/025.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/026.png": {
+      "mask": "mask/026.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(153, 153, 153)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/028.png": {
+      "mask": "mask/028.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(153, 153, 153)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/030.png": {
+      "mask": "mask/030.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(153, 153, 153)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/031.png": {
+      "mask": "mask/031.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/032.png": {
+      "mask": "mask/032.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/034.png": {
+      "mask": "mask/034.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/033.png": {
+      "mask": "mask/033.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/035.png": {
+      "mask": "mask/035.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/036.png": {
+      "mask": "mask/036.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/037.png": {
+      "mask": "mask/037.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/038.png": {
+      "mask": "mask/038.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/039.png": {
+      "mask": "mask/039.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/040.png": {
+      "mask": "mask/040.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/041.png": {
+      "mask": "mask/041.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/042.png": {
+      "mask": "mask/042.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/043.png": {
+      "mask": "mask/043.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/044.png": {
+      "mask": "mask/044.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/045.png": {
+      "mask": "mask/045.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/046.png": {
+      "mask": "mask/046.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/047.png": {
+      "mask": "mask/047.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/048.png": {
+      "mask": "mask/048.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/050.png": {
+      "mask": "mask/050.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/051.png": {
+      "mask": "mask/051.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/052.png": {
+      "mask": "mask/052.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/053.png": {
+      "mask": "mask/053.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/054.png": {
+      "mask": "mask/054.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/055.png": {
+      "mask": "mask/055.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/056.png": {
+      "mask": "mask/056.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/057.png": {
+      "mask": "mask/057.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/058.png": {
+      "mask": "mask/058.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/059.png": {
+      "mask": "mask/059.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/060.png": {
+      "mask": "mask/060.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/061.png": {
+      "mask": "mask/061.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/062.png": {
+      "mask": "mask/062.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/063.png": {
+      "mask": "mask/063.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/064.png": {
+      "mask": "mask/064.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/065.png": {
+      "mask": "mask/065.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/066.png": {
+      "mask": "mask/066.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/067.png": {
+      "mask": "mask/067.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/068.png": {
+      "mask": "mask/068.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/069.png": {
+      "mask": "mask/069.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/070.png": {
+      "mask": "mask/070.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/071.png": {
+      "mask": "mask/071.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/072.png": {
+      "mask": "mask/072.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/073.png": {
+      "mask": "mask/073.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/074.png": {
+      "mask": "mask/074.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/075.png": {
+      "mask": "mask/075.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/076.png": {
+      "mask": "mask/076.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/077.png": {
+      "mask": "mask/077.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/078.png": {
+      "mask": "mask/078.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/079.png": {
+      "mask": "mask/079.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/080.png": {
+      "mask": "mask/080.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/081.png": {
+      "mask": "mask/081.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/082.png": {
+      "mask": "mask/082.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/083.png": {
+      "mask": "mask/083.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/084.png": {
+      "mask": "mask/084.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/085.png": {
+      "mask": "mask/085.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/086.png": {
+      "mask": "mask/086.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/087.png": {
+      "mask": "mask/087.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/088.png": {
+      "mask": "mask/088.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/089.png": {
+      "mask": "mask/089.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/090.png": {
+      "mask": "mask/090.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/091.png": {
+      "mask": "mask/091.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/092.png": {
+      "mask": "mask/092.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/093.png": {
+      "mask": "mask/093.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/095.png": {
+      "mask": "mask/095.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/096.png": {
+      "mask": "mask/096.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/097.png": {
+      "mask": "mask/097.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/098.png": {
+      "mask": "mask/098.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/099.png": {
+      "mask": "mask/099.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/100.png": {
+      "mask": "mask/100.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/101.png": {
+      "mask": "mask/101.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/102.png": {
+      "mask": "mask/102.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/103.png": {
+      "mask": "mask/103.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/104.png": {
+      "mask": "mask/104.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/105.png": {
+      "mask": "mask/105.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/106.png": {
+      "mask": "mask/106.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/107.png": {
+      "mask": "mask/107.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/108.png": {
+      "mask": "mask/108.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/109.png": {
+      "mask": "mask/109.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/110.png": {
+      "mask": "mask/110.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/111.png": {
+      "mask": "mask/111.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/112.png": {
+      "mask": "mask/112.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/113.png": {
+      "mask": "mask/113.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/114.png": {
+      "mask": "mask/114.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/115.png": {
+      "mask": "mask/115.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/116.png": {
+      "mask": "mask/116.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/117.png": {
+      "mask": "mask/117.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/118.png": {
+      "mask": "mask/118.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/119.png": {
+      "mask": "mask/119.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/120.png": {
+      "mask": "mask/120.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/121.png": {
+      "mask": "mask/121.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/122.png": {
+      "mask": "mask/122.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/123.png": {
+      "mask": "mask/123.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/124.png": {
+      "mask": "mask/124.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/125.png": {
+      "mask": "mask/125.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/126.png": {
+      "mask": "mask/126.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/127.png": {
+      "mask": "mask/127.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/128.png": {
+      "mask": "mask/128.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/129.png": {
+      "mask": "mask/129.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/130.png": {
+      "mask": "mask/130.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/131.png": {
+      "mask": "mask/131.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/132.png": {
+      "mask": "mask/132.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/133.png": {
+      "mask": "mask/133.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/134.png": {
+      "mask": "mask/134.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/136.png": {
+      "mask": "mask/136.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/137.png": {
+      "mask": "mask/137.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/138.png": {
+      "mask": "mask/138.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/139.png": {
+      "mask": "mask/139.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/140.png": {
+      "mask": "mask/140.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/141.png": {
+      "mask": "mask/141.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/142.png": {
+      "mask": "mask/142.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/153.png": {
+      "mask": "mask/153.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/154.png": {
+      "mask": "mask/154.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/155.png": {
+      "mask": "mask/155.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/156.png": {
+      "mask": "mask/156.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/157.png": {
+      "mask": "mask/157.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/158.png": {
+      "mask": "mask/158.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/160.png": {
+      "mask": "mask/160.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/161.png": {
+      "mask": "mask/161.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/162.png": {
+      "mask": "mask/162.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/163.png": {
+      "mask": "mask/163.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/164.png": {
+      "mask": "mask/164.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/165.png": {
+      "mask": "mask/165.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/166.png": {
+      "mask": "mask/166.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/167.png": {
+      "mask": "mask/167.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/168.png": {
+      "mask": "mask/168.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/170.png": {
+      "mask": "mask/170.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/171.png": {
+      "mask": "mask/171.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/172.png": {
+      "mask": "mask/172.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/173.png": {
+      "mask": "mask/173.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/174.png": {
+      "mask": "mask/174.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/175.png": {
+      "mask": "mask/175.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/176.png": {
+      "mask": "mask/176.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/178.png": {
+      "mask": "mask/178.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/179.png": {
+      "mask": "mask/179.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/180.png": {
+      "mask": "mask/180.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    }
+  },
+  "super_categories": {
+    "Panda": [
+      "Stand",
+      "Sit",
+      "Lie"
+    ]
+  }
+}
