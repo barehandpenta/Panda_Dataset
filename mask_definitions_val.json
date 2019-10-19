@@ -1,0 +1,350 @@
+{
+  "masks": {
+    "image/0001.png": {
+      "mask": "mask/0001.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0002.png": {
+      "mask": "mask/0002.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0003.png": {
+      "mask": "mask/0003.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0004.png": {
+      "mask": "mask/0004.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0005.png": {
+      "mask": "mask/0005.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 255, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(255, 0, 216)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0006.png": {
+      "mask": "mask/0006.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0007.png": {
+      "mask": "mask/0007.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0008.png": {
+      "mask": "mask/0008.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0009.png": {
+      "mask": "mask/0009.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0010.png": {
+      "mask": "mask/0010.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0011.png": {
+      "mask": "mask/0011.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0012.png": {
+      "mask": "mask/0012.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0013.png": {
+      "mask": "mask/0013.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0014.png": {
+      "mask": "mask/0014.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0015.png": {
+      "mask": "mask/0015.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0016.png": {
+      "mask": "mask/0016.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0017.png": {
+      "mask": "mask/0017.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0018.png": {
+      "mask": "mask/0018.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0019.png": {
+      "mask": "mask/0019.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0020.png": {
+      "mask": "mask/0020.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0021.png": {
+      "mask": "mask/0021.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0022.png": {
+      "mask": "mask/0022.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0023.png": {
+      "mask": "mask/0023.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0024.png": {
+      "mask": "mask/0024.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0025.png": {
+      "mask": "mask/0025.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0026.png": {
+      "mask": "mask/0026.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Lie",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0027.png": {
+      "mask": "mask/0027.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0028.png": {
+      "mask": "mask/0028.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0029.png": {
+      "mask": "mask/0029.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0030.png": {
+      "mask": "mask/0030.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        },
+        "(0, 0, 255)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0031.png": {
+      "mask": "mask/0031.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0032.png": {
+      "mask": "mask/0032.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Stand",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0033.png": {
+      "mask": "mask/0033.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0034.png": {
+      "mask": "mask/0034.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    },
+    "image/0035.png": {
+      "mask": "mask/0035.png",
+      "color_categories": {
+        "(255, 0, 0)": {
+          "category": "Sit",
+          "super_category": "Panda"
+        }
+      }
+    }
+  },
+  "super_categories": {
+    "Panda": [
+      "Stand",
+      "Sit",
+      "Lie"
+    ]
+  }
+}
